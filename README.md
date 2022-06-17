@@ -26,7 +26,7 @@ $ pip install -U ggplot
 # or 
 $ conda install -c conda-forge ggplot
 # or
-pip install git+https://github.com/yhat/ggplot.git
+pip install git+https://github.com/kitta123/ggplott.git
 ```
 
 ### Examples
